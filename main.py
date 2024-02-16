@@ -1,3 +1,3 @@
 print("Hello world")
 
-print("Added a new file")
+print("A new hello world.")
